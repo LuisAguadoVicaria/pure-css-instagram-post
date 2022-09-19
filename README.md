@@ -5,7 +5,7 @@
 </p>
 <p align="center" >
   <a href="https://luisaguadovicaria.github.io/pure-css-instagram-post/">
-    <img height="44px"  src="https://github.com/LuisAguadoVicaria/priv-readme-src/raw/main/proyect-images/LiveDEMObutton.png" alt="live-demo" align="center">
+    <img height="44px"  src="https://github.com/LuisAguadoVicaria/LuisAguadoVicaria/raw/main/proyect-images/live-demo-button.png" alt="live-demo" align="center">
   </a>
 </p>
 
